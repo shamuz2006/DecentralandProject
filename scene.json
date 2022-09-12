@@ -1,0 +1,44 @@
+{
+  "display": {
+    "title": "Dogs",
+    "description": "Defeat monster dogs in order to achieve new levels and beat the game",
+    "navmapThumbnail": "images/ReggieMiller.jfif",
+    "favicon": "favicon_asset"
+  },
+  "owner": "",
+  "contact": {
+    "name": "Shalin Muzumdar",
+    "email": "shamuz2006@gmail.com"
+  },
+  "main": "bin/game.js",
+  "tags": [],
+  "scene": {
+    "parcels": [ "0,0" ],
+    "base": "0,0"
+  },
+  "spawnPoints": [
+    {
+      "name": "spawn1",
+      "default": true,
+      "position": {
+        "x": 1,
+        "y": 0,
+        "z": 14
+      },
+      "cameraTarget": {
+        "x": 8,
+        "y": 1,
+        "z": 8
+      }
+    }
+  ],
+  "requiredPermissions": [
+    "ALLOW_TO_MOVE_PLAYER_INSIDE_SCENE"
+  ],
+  "featureToggles": {
+    "voiceChat": "disbaled"
+  },
+  "policy": {
+    "profileInfoEnabled":  false
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\images",
+    "\\models",
+    "\\server",
+    "\\server\\src",
+    "\\server\\src\\rooms",
+    "\\server\\src\\rooms\\schema",
+    "\\src"
+  ],
+  "SelectedNode": "\\server\\src\\rooms\\MyRoom.ts",
+  "PreviewInSolutionExplorer": false
+}
