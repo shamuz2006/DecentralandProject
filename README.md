@@ -1,3 +1,5 @@
+[![Watch the video](https://img.youtube.com/vi/BHThgPfOpCw/0.jpg)](https://www.youtube.com/watch?v=BHThgPfOpCw)
+
 # Decentraland scene
 
 This folder contains all the necessary files to launch a Decentraland scene.
